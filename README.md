@@ -63,3 +63,4 @@ Python 3.10+ · LangChain · Gemini API · Pydantic
 
 - Persistência via JSON, sem banco de dados
 - Sujeito ao limite diário da API do Gemini
+- z
