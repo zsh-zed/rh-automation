@@ -1,0 +1,58 @@
+[
+  {
+    "arquivo": "Curriculo_Edgar_Mendes_2026-v2.pdf",
+    "file_hash": "f214365c573903ebf2a706ef45fe371a",
+    "analise": {
+      "nome": "EDGAR SOUSA MENDES",
+      "nivel": "Júnior",
+      "anos_experiencia": 0,
+      "skills_tecnicas": [
+        "Java 17",
+        "Spring Boot 3",
+        "Spring Data JPA",
+        "Spring Security",
+        "PostgreSQL",
+        "MySQL",
+        "SQL",
+        "Docker",
+        "Docker Compose",
+        "GitHub Actions",
+        "CI/CD",
+        "JUnit 5",
+        "Mockito",
+        "JaCoCo",
+        "Git",
+        "GitHub",
+        "Maven",
+        "Gradle",
+        "Swagger (OpenAPI)",
+        "Postman",
+        "API RESTful",
+        "Microsserviços",
+        "POO (Programação Orientada a Objetos)",
+        "SOLID",
+        "Clean Code",
+        "Metodologias Ágeis (Scrum)",
+        "CRUD",
+        "Tratamento de Exceções",
+        "Containerização"
+      ],
+      "soft_skills": [
+        "Foco em Qualidade de Código",
+        "Proatividade",
+        "Orientação a Resultados",
+        "Busca por Aprendizado Contínuo",
+        "Atenção aos Detalhes",
+        "Resolução de Problemas"
+      ],
+      "educacao": "Engenharia de Software | Bacharelado | Estácio de Sá | Previsão de Conclusão: Abril/2027 - 6º Semestre",
+      "resumo_profissional": "Desenvolvedor Backend em formação, cursando Engenharia de Software, buscando uma posição de Estágio ou Júnior. Possui sólidos conhecimentos em Java 17, Spring Boot 3, PostgreSQL e práticas de DevOps (Docker, CI/CD com GitHub Actions). Demonstra experiência prática na construção de APIs RESTful escaláveis, utilizando princípios de Clean Code, SOLID e Testes Unitários (JUnit 5, Mockito), conforme evidenciado em projetos de portfólio."
+    },
+    "score": {
+      "keyword_score": 0.0,
+      "experience_score": 0,
+      "hard_skills_score": 0,
+      "final_score": 0.0
+    }
+  }
+]

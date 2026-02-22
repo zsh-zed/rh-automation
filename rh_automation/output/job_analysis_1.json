@@ -1,0 +1,20 @@
+{
+  "titulo": "AI Engineer Júnior",
+  "nivel_esperado": "Júnior",
+  "anos_experiencia_min": 0,
+  "skills_obrigatorias": [
+    "Python (com projetos próprios, acadêmicos ou de estágio)",
+    "JavaScript/TypeScript (com projetos próprios, acadêmicos ou de estágio)",
+    "Interesse em Inteligência Artificial (especialmente LLMs como ChatGPT, Claude, Mistral)",
+    "Contato com frameworks como LangGraph",
+    "Contato com frameworks como LangChain",
+    "Contato com conceitos como Agentes de IA",
+    "Contato com conceitos como RAG (Retrieval Augmented Generation)",
+    "Consumo de APIs REST",
+    "Montagem de fluxos simples de backend",
+    "Montagem de fluxos simples de frontend",
+    "Leitura em inglês técnico"
+  ],
+  "skills_desejaveis": [],
+  "formacao_minima": "Não especificado"
+}

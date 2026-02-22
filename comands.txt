@@ -1,0 +1,6 @@
+python3 -m venv venv
+source venv/bin/activate
+pip freeze > requirements.txt
+pip install python-dotenv
+pip install -U langchain-google-genai
+pip install pypdf python-docx

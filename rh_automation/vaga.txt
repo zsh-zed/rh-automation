@@ -1,0 +1,31 @@
+Quem nós somos
+
+Nós da Artefact LatAm acreditamos e vivemos uma cultura com base na empatia!
+
+Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas.
+
+Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa.
+
+💙Queremos conosco mentes e corações incríveis! Venha ser Artefact!
+
+Sobre a Vaga
+
+Se você está começando sua carreira em tecnologia, curte Inteligência Artificial, e quer trabalhar com o que há de mais novo no mercado? Estamos em busca de uma pessoa AI Engineer Júnior para nos ajudar a construir aplicações inteligentes usando modelos como o GPT-4, Claude, Gemini, etc… frameworks modernos e ferramentas que conectam IA com o “mundo real”.
+
+Essa vaga é para quem quer aprender na prática como funcionam LLMs, agentes e aplicações com
+
+O que você vai aprender e fazer com a gente:
+
+Criar protótipos de aplicações com IA, do backend ao front-end, usando ferramentas como GPT-4, LangChain ou LangGraph.
+Trabalhar com bibliotecas como Vercel AI SDK para construir interfaces simples que se comunicam com modelos em tempo real (ex: chatbots).
+Aprender a usar conceitos como Model Context Protocol (MCP), uma forma de fazer com que o modelo de IA possa acionar ferramentas externas de forma controlada, como uma calculadora, uma API ou um banco de dados.
+Apoiar na criação de assistentes de IA que realmente executam tarefas, não apenas respondem perguntas.
+Colaborar com outras pessoas desenvolvedoras e aprender sobre o que funciona (ou não) na hora de colocar IA em produção.
+
+O Que Nós Estamos Buscando
+
+Ter feito projetos próprios, acadêmicos ou de estágio usando Python ou JavaScript/TypeScript.
+Interesse real por Inteligência Artificial, especialmente LLMs como ChatGPT, Claude, Mistral, etc.
+Ter tido um contato mesmo que em projetos pequenos próprios de frameworks como LangGraph, LangChain e conceitos como agentes e RAG.
+Saber consumir APIs REST e montar fluxos simples de back-end e/ou front-end.
+Leitura em inglês técnico (a maioria da documentação está em inglês).
